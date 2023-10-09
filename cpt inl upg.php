@@ -3,8 +3,8 @@
 function post_type_news()
 {
 $supports = array(
-'title', 
-'editor',
+'title', //Stöd för att kunna ge en titel till inlägget/sidan
+'editor', 
 'author',
 'thumbnail',
 'excerpt',
@@ -15,7 +15,7 @@ $supports = array(
 );
  
 $labels = array(
-'name' => _x('News', 'plural'),
+'name' => _x('News', 'plural'), // Namnet på 
 'singular_name' => _x('News', 'singular'),
 'menu_name' => _x('News', 'admin menu'),
 'name_admin_bar' => _x('News', 'admin bar'),
