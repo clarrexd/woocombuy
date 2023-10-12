@@ -1,0 +1,38 @@
+2023-10-12T21:56:52+00:00 CRITICAL syntax error, unexpected single-quoted string "hierarchical", expecting ")" in C:\xampp\htdocs\wordpress\wp-content\themes\woostify\functions.php on line 62
+
+2023-10-12T21:56:57+00:00 CRITICAL syntax error, unexpected single-quoted string "hierarchical", expecting ")" in C:\xampp\htdocs\wordpress\wp-content\themes\woostify\functions.php on line 62
+
+2023-10-12T21:57:59+00:00 CRITICAL syntax error, unexpected single-quoted string "hierarchical", expecting ")" in C:\xampp\htdocs\wordpress\wp-content\themes\woostify\functions.php on line 62
+
+2023-10-12T21:59:37+00:00 CRITICAL syntax error, unexpected single-quoted string "hierarchical", expecting ")" in C:\xampp\htdocs\wordpress\wp-content\themes\woostify-child\functions.php on line 62
+
+2023-10-12T22:00:00+00:00 CRITICAL syntax error, unexpected single-quoted string "hierarchical", expecting ")" in C:\xampp\htdocs\wordpress\wp-content\themes\woostify-child\functions.php on line 62
+
+2023-10-12T22:00:00+00:00 CRITICAL syntax error, unexpected single-quoted string "hierarchical", expecting ")" in C:\xampp\htdocs\wordpress\wp-content\themes\woostify-child\functions.php on line 62
+
+2023-10-12T22:00:24+00:00 CRITICAL syntax error, unexpected single-quoted string "hierarchical", expecting ")" in C:\xampp\htdocs\wordpress\wp-content\themes\woostify-child\functions.php on line 62
+
+2023-10-12T22:00:42+00:00 CRITICAL syntax error, unexpected single-quoted string "public", expecting ")" in C:\xampp\htdocs\wordpress\wp-content\themes\woostify-child\functions.php on line 63
+
+2023-10-12T22:01:26+00:00 CRITICAL syntax error, unexpected single-quoted string "public", expecting ")" in C:\xampp\htdocs\wordpress\wp-content\themes\woostify-child\functions.php on line 63
+
+2023-10-12T22:02:01+00:00 CRITICAL syntax error, unexpected single-quoted string "public", expecting ")" in C:\xampp\htdocs\wordpress\wp-content\themes\woostify-child\functions.php on line 63
+
+2023-10-12T22:04:02+00:00 CRITICAL syntax error, unexpected single-quoted string "public", expecting ")" in C:\xampp\htdocs\wordpress\wp-content\themes\woostify-child\functions.php on line 63
+
+2023-10-12T22:06:03+00:00 CRITICAL syntax error, unexpected single-quoted string "public", expecting ")" in C:\xampp\htdocs\wordpress\wp-content\themes\woostify-child\functions.php on line 63
+
+2023-10-12T22:07:55+00:00 CRITICAL syntax error, unexpected single-quoted string "public", expecting ")" in C:\xampp\htdocs\wordpress\wp-content\themes\woostify-child\functions.php on line 63
+
+2023-10-12T22:08:04+00:00 CRITICAL syntax error, unexpected single-quoted string "public", expecting ")" in C:\xampp\htdocs\wordpress\wp-content\themes\woostify-child\functions.php on line 63
+
+2023-10-12T22:08:54+00:00 CRITICAL syntax error, unexpected double-quoted string "public", expecting ")" in C:\xampp\htdocs\wordpress\wp-content\themes\woostify-child\functions.php on line 63
+
+2023-10-12T22:10:09+00:00 CRITICAL syntax error, unexpected identifier "register_post_type" in C:\xampp\htdocs\wordpress\wp-content\themes\woostify-child\functions.php on line 72
+
+2023-10-12T22:10:34+00:00 CRITICAL syntax error, unexpected identifier "register_post_type" in C:\xampp\htdocs\wordpress\wp-content\themes\woostify-child\functions.php on line 72
+
+2023-10-12T22:11:35+00:00 CRITICAL syntax error, unexpected identifier "register_post_type" in C:\xampp\htdocs\wordpress\wp-content\themes\woostify-child\functions.php on line 72
+
+2023-10-12T22:12:19+00:00 CRITICAL syntax error, unexpected token "echo", expecting ";" in C:\xampp\htdocs\wordpress\wp-content\themes\woostify-child\functions.php on line 80
+
