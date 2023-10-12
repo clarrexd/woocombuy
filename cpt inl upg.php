@@ -4,11 +4,11 @@ function post_type_news()
 {
 $supports = array(
 'title', //Stöd för att kunna ge en titel till inlägget/sidan
-'editor', 
-'author',
-'thumbnail',
-'excerpt',
-'custom-fields',
+'editor', //Ger användaren rätt till editorn för att t.ex. lägga in text
+'author', // Ger användaren rätt till att lägga till en author
+'thumbnail', // Ger användaren rätt till att lägga till en thumbnail(featured image) till inlägget
+'excerpt', // Ger användaren rätt till att hantera excerpts (preview av content, brukar vara X antal ord) som syns innan man går in på det enskilda inlägget
+'custom-fields', // ger användaren åtkomst till custom-fields för att kunna lägga till olika fält med värden
 'comments',
 'revisions',
 'post-formats',
